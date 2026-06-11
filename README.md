@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is Victor Bitar and I'm a  estudante de programação Back-End em Java e Python.</p>
+<p align="left">Meu nome é Victor Bitar e eu sou um estudante de programação Back-End em Java e Python.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 202<br>📚 I'm currently learning Back-End Java<br>🎯 Goals: Ser um excelente programador Back-end</p>
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou aprendendo Back-End Java<br>🎯 Objetivo: Ser um excelente programador Back-end</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com</h2>
 
 ###
 
